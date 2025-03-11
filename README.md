@@ -1,8 +1,8 @@
 # ServidorCOMsimples
 
-Henrique Carvalho Ferreira - 2210732 [CRIADOR DO REPOSITÓRIO]
-Jean Carlos Araujo Medrado - 2212305
-Alex Carlos do Nascimento Filho - 2212063
+- Henrique Carvalho Ferreira - 2210732 [CRIADOR DO REPOSITÓRIO]
+- Jean Carlos Araujo Medrado - 2212305
+- Alex Carlos do Nascimento Filho - 2212063
 
 [ATENÇÃO: LEIA ATENTAMENTE AS RECOMENDAÇÕES E AVISOS ABAIXO]
 
@@ -17,13 +17,13 @@ Alex Carlos do Nascimento Filho - 2212063
 
 -Em seguida, o Postman retornou 200 para a solicitação, atestando que o servidor criado no arquivo phyton respondeu bem a requisição enviada pelo Postman.
 
-- ![image](https://github.com/user-attachments/assets/84edfb72-ac61-46dc-8b6f-cf6039fa0356) [PARAMETROS JSON]
+- [PARAMETROS JSON] ![image](https://github.com/user-attachments/assets/84edfb72-ac61-46dc-8b6f-cf6039fa0356) 
 
-- ![image](https://github.com/user-attachments/assets/e6c17cdf-554d-4b89-9f7e-1288e26ab61f) [KEY + VALUE]
+- [KEY + VALUE] ![image](https://github.com/user-attachments/assets/e6c17cdf-554d-4b89-9f7e-1288e26ab61f) 
 
-- ![image](https://github.com/user-attachments/assets/c1c68846-2ca5-42e7-8da5-d256355c46eb) [SAÍDA DO POSTMAN AO TESTE BEM SUCEDIDO]
+- [SAÍDA DO POSTMAN AO TESTE BEM SUCEDIDO] ![image](https://github.com/user-attachments/assets/c1c68846-2ca5-42e7-8da5-d256355c46eb) 
 
-- ![image](https://github.com/user-attachments/assets/898e0a84-7153-463f-88ad-e1c9cce9e867) [SAÍDA DO CONSOLE PHYTON EVIDENCIANDO O INICIO DO SERVIDOR E O ENVIO DE UMA MENSAGEM CODIGO 200 A REQUISIÇÃO DO POSTMAN]
+- [SAÍDA DO CONSOLE PHYTON EVIDENCIANDO O INICIO DO SERVIDOR E O ENVIO DE UMA MENSAGEM CODIGO 200 A REQUISIÇÃO DO POSTMAN] ![image](https://github.com/user-attachments/assets/898e0a84-7153-463f-88ad-e1c9cce9e867) 
 
   
 
